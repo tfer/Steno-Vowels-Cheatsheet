@@ -23,4 +23,4 @@ License is CC-by-sa-nc. The each image's vowel sound indicates what the stroke f
 | ⊤ ⊥ ⊥ ⊥  |pow | |
 | ⊥ ⊥ ⊥ ⊥  |eye | |
 
-![image](https://github.com/user-attachments/assets/695e2d0d-1dee-4d6d-8e8e-159a60acd609)
+
